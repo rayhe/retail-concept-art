@@ -1,6 +1,6 @@
 # Retail Concept Art
 
-Abstract pieces for in-store display: 69 images, every one generated from code and rendered with Blender 5.3 Cycles (OptiX) on an NVIDIA RTX 5090.
+Abstract pieces for in-store display: 70 images, every one generated from code and rendered with Blender 5.3 Cycles (OptiX) on an NVIDIA RTX 5090.
 
 **[View the gallery](https://rayhe.github.io/retail-concept-art/)**: the shareable web version, with a full-screen viewer.
 
@@ -75,7 +75,7 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/064-ribbons-s340170.jpg"><img src="thumbs/064-ribbons-s340170.jpg" width="240" alt="ribbons, seed 340170, ocean palette" title="064-ribbons-s340170 (ocean, 3840x2160)"></a>
 </p>
 
-## Monoliths (11)
+## Monoliths (12)
 
 <p>
 <a href="previews/004-monoliths-s496598.jpg"><img src="thumbs/004-monoliths-s496598.jpg" width="240" alt="monoliths, seed 496598, ocean palette" title="004-monoliths-s496598 (ocean, 2400x3000)"></a>
@@ -89,6 +89,7 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/050-monoliths-s496282.jpg"><img src="thumbs/050-monoliths-s496282.jpg" width="240" alt="monoliths, seed 496282, ocean palette" title="050-monoliths-s496282 (ocean, 2400x3000)"></a>
 <a href="previews/060-monoliths-s335547.jpg"><img src="thumbs/060-monoliths-s335547.jpg" width="240" alt="monoliths, seed 335547, noir palette" title="060-monoliths-s335547 (noir, 2400x3000)"></a>
 <a href="previews/063-monoliths-s891711.jpg"><img src="thumbs/063-monoliths-s891711.jpg" width="240" alt="monoliths, seed 891711, blush palette" title="063-monoliths-s891711 (blush, 2400x3000)"></a>
+<a href="previews/070-monoliths-s969768.jpg"><img src="thumbs/070-monoliths-s969768.jpg" width="240" alt="monoliths, seed 969768, sand palette" title="070-monoliths-s969768 (sand, 2400x3000)"></a>
 </p>
 
 ## Spheres (11)

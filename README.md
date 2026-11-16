@@ -1,6 +1,6 @@
 # Retail Concept Art
 
-Abstract pieces for in-store display: 162 images, every one generated from code and rendered with Blender 5.3 Cycles (OptiX) on an NVIDIA RTX 5090.
+Abstract pieces for in-store display: 168 images, every one generated from code and rendered with Blender 5.3 Cycles (OptiX) on an NVIDIA RTX 5090.
 
 **[View the gallery](https://rayhe.github.io/retail-concept-art/)**: the shareable web version, with a full-screen viewer.
 
@@ -28,6 +28,8 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 ## Featured (30)
 
 The strongest pieces for display, picked from the full set.
+
+3 of them are also seamless 10-second loops (1080p MP4) for in-store screens: they play on the [gallery page](https://rayhe.github.io/retail-concept-art/), and the full-quality files are on the [v1 release](../../releases/tag/v1).
 
 <p>
 <a href="previews/014-waves-s917419.jpg"><img src="thumbs/014-waves-s917419.jpg" width="300" alt="waves, seed 917419, noir palette" title="014-waves-s917419 (noir, 3840x2160)"></a>
@@ -62,9 +64,9 @@ The strongest pieces for display, picked from the full set.
 <a href="previews/154-arches-s556416.jpg"><img src="thumbs/154-arches-s556416.jpg" width="300" alt="arches, seed 556416, blush palette" title="154-arches-s556416 (blush, 2400x3000)"></a>
 </p>
 
-## Appendix: the other 132 renders
+## Appendix: the other 138 renders
 
-### Arches (21)
+### Arches (22)
 
 <p>
 <a href="previews/005-arches-s252832.jpg"><img src="thumbs/005-arches-s252832.jpg" width="240" alt="arches, seed 252832, ocean palette" title="005-arches-s252832 (ocean, 2400x3000)"></a>
@@ -88,9 +90,10 @@ The strongest pieces for display, picked from the full set.
 <a href="previews/135-arches-s211688.jpg"><img src="thumbs/135-arches-s211688.jpg" width="240" alt="arches, seed 211688, ocean palette" title="135-arches-s211688 (ocean, 2400x3000)"></a>
 <a href="previews/147-arches-s609290.jpg"><img src="thumbs/147-arches-s609290.jpg" width="240" alt="arches, seed 609290, lilac palette" title="147-arches-s609290 (lilac, 2400x3000)"></a>
 <a href="previews/162-arches-s494404.jpg"><img src="thumbs/162-arches-s494404.jpg" width="240" alt="arches, seed 494404, noir palette" title="162-arches-s494404 (noir, 2400x3000)"></a>
+<a href="previews/164-arches-s890125.jpg"><img src="thumbs/164-arches-s890125.jpg" width="240" alt="arches, seed 890125, sand palette" title="164-arches-s890125 (sand, 2400x3000)"></a>
 </p>
 
-### Podiums (22)
+### Podiums (23)
 
 <p>
 <a href="previews/003-podiums-s958351.jpg"><img src="thumbs/003-podiums-s958351.jpg" width="240" alt="podiums, seed 958351, noir palette" title="003-podiums-s958351 (noir, 2400x3000)"></a>
@@ -115,9 +118,10 @@ The strongest pieces for display, picked from the full set.
 <a href="previews/141-podiums-s345887.jpg"><img src="thumbs/141-podiums-s345887.jpg" width="240" alt="podiums, seed 345887, noir palette" title="141-podiums-s345887 (noir, 2400x3000)"></a>
 <a href="previews/156-podiums-s872423.jpg"><img src="thumbs/156-podiums-s872423.jpg" width="240" alt="podiums, seed 872423, noir palette" title="156-podiums-s872423 (noir, 2400x3000)"></a>
 <a href="previews/158-podiums-s724931.jpg"><img src="thumbs/158-podiums-s724931.jpg" width="240" alt="podiums, seed 724931, lilac palette" title="158-podiums-s724931 (lilac, 2400x3000)"></a>
+<a href="previews/166-podiums-s753701.jpg"><img src="thumbs/166-podiums-s753701.jpg" width="240" alt="podiums, seed 753701, citrus palette" title="166-podiums-s753701 (citrus, 2400x3000)"></a>
 </p>
 
-### Ribbons (22)
+### Ribbons (23)
 
 <p>
 <a href="previews/001-ribbons-s354859.jpg"><img src="thumbs/001-ribbons-s354859.jpg" width="240" alt="ribbons, seed 354859, citrus palette" title="001-ribbons-s354859 (citrus, 3840x2160)"></a>
@@ -142,9 +146,10 @@ The strongest pieces for display, picked from the full set.
 <a href="previews/139-ribbons-s399004.jpg"><img src="thumbs/139-ribbons-s399004.jpg" width="240" alt="ribbons, seed 399004, citrus palette" title="139-ribbons-s399004 (citrus, 3840x2160)"></a>
 <a href="previews/148-ribbons-s445484.jpg"><img src="thumbs/148-ribbons-s445484.jpg" width="240" alt="ribbons, seed 445484, lilac palette" title="148-ribbons-s445484 (lilac, 3840x2160)"></a>
 <a href="previews/151-ribbons-s683451.jpg"><img src="thumbs/151-ribbons-s683451.jpg" width="240" alt="ribbons, seed 683451, ocean palette" title="151-ribbons-s683451 (ocean, 3840x2160)"></a>
+<a href="previews/168-ribbons-s808128.jpg"><img src="thumbs/168-ribbons-s808128.jpg" width="240" alt="ribbons, seed 808128, sand palette" title="168-ribbons-s808128 (sand, 3840x2160)"></a>
 </p>
 
-### Monoliths (24)
+### Monoliths (25)
 
 <p>
 <a href="previews/004-monoliths-s496598.jpg"><img src="thumbs/004-monoliths-s496598.jpg" width="240" alt="monoliths, seed 496598, ocean palette" title="004-monoliths-s496598 (ocean, 2400x3000)"></a>
@@ -171,9 +176,10 @@ The strongest pieces for display, picked from the full set.
 <a href="previews/138-monoliths-s21482.jpg"><img src="thumbs/138-monoliths-s21482.jpg" width="240" alt="monoliths, seed 21482, lilac palette" title="138-monoliths-s21482 (lilac, 2400x3000)"></a>
 <a href="previews/155-monoliths-s831310.jpg"><img src="thumbs/155-monoliths-s831310.jpg" width="240" alt="monoliths, seed 831310, citrus palette" title="155-monoliths-s831310 (citrus, 2400x3000)"></a>
 <a href="previews/161-monoliths-s494378.jpg"><img src="thumbs/161-monoliths-s494378.jpg" width="240" alt="monoliths, seed 494378, blush palette" title="161-monoliths-s494378 (blush, 2400x3000)"></a>
+<a href="previews/163-monoliths-s107131.jpg"><img src="thumbs/163-monoliths-s107131.jpg" width="240" alt="monoliths, seed 107131, ocean palette" title="163-monoliths-s107131 (ocean, 2400x3000)"></a>
 </p>
 
-### Spheres (22)
+### Spheres (23)
 
 <p>
 <a href="previews/002-spheres-s523746.jpg"><img src="thumbs/002-spheres-s523746.jpg" width="240" alt="spheres, seed 523746, lilac palette" title="002-spheres-s523746 (lilac, 2400x3000)"></a>
@@ -198,9 +204,10 @@ The strongest pieces for display, picked from the full set.
 <a href="previews/144-spheres-s756482.jpg"><img src="thumbs/144-spheres-s756482.jpg" width="240" alt="spheres, seed 756482, noir palette" title="144-spheres-s756482 (noir, 2400x3000)"></a>
 <a href="previews/145-spheres-s541915.jpg"><img src="thumbs/145-spheres-s541915.jpg" width="240" alt="spheres, seed 541915, noir palette" title="145-spheres-s541915 (noir, 2400x3000)"></a>
 <a href="previews/152-spheres-s340411.jpg"><img src="thumbs/152-spheres-s340411.jpg" width="240" alt="spheres, seed 340411, lilac palette" title="152-spheres-s340411 (lilac, 3000x3000)"></a>
+<a href="previews/167-spheres-s10408.jpg"><img src="thumbs/167-spheres-s10408.jpg" width="240" alt="spheres, seed 10408, noir palette" title="167-spheres-s10408 (noir, 2400x3000)"></a>
 </p>
 
-### Waves (21)
+### Waves (22)
 
 <p>
 <a href="previews/006-waves-s605907.jpg"><img src="thumbs/006-waves-s605907.jpg" width="240" alt="waves, seed 605907, blush palette" title="006-waves-s605907 (blush, 3840x2160)"></a>
@@ -224,6 +231,7 @@ The strongest pieces for display, picked from the full set.
 <a href="previews/137-waves-s874280.jpg"><img src="thumbs/137-waves-s874280.jpg" width="240" alt="waves, seed 874280, citrus palette" title="137-waves-s874280 (citrus, 3840x2160)"></a>
 <a href="previews/140-waves-s574761.jpg"><img src="thumbs/140-waves-s574761.jpg" width="240" alt="waves, seed 574761, lilac palette" title="140-waves-s574761 (lilac, 3840x2160)"></a>
 <a href="previews/146-waves-s30526.jpg"><img src="thumbs/146-waves-s30526.jpg" width="240" alt="waves, seed 30526, noir palette" title="146-waves-s30526 (noir, 3840x2160)"></a>
+<a href="previews/165-waves-s561736.jpg"><img src="thumbs/165-waves-s561736.jpg" width="240" alt="waves, seed 561736, citrus palette" title="165-waves-s561736 (citrus, 3840x2160)"></a>
 </p>
 
 ## License

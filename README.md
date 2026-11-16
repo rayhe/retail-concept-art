@@ -1,6 +1,6 @@
 # Retail Concept Art
 
-Abstract pieces for in-store display: 98 images, every one generated from code and rendered with Blender 5.3 Cycles (OptiX) on an NVIDIA RTX 5090.
+Abstract pieces for in-store display: 104 images, every one generated from code and rendered with Blender 5.3 Cycles (OptiX) on an NVIDIA RTX 5090.
 
 **[View the gallery](https://rayhe.github.io/retail-concept-art/)**: the shareable web version, with a full-screen viewer.
 
@@ -25,7 +25,7 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 | spheres | A Fibonacci garden of gold, clay, frosted-glass and iridescent spheres. |
 | waves | Dark silk: a folded surface grazed by coloured light. |
 
-## Arches (16)
+## Arches (18)
 
 <p>
 <a href="previews/005-arches-s252832.jpg"><img src="thumbs/005-arches-s252832.jpg" width="240" alt="arches, seed 252832, ocean palette" title="005-arches-s252832 (ocean, 2400x3000)"></a>
@@ -44,6 +44,8 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/080-arches-s969892.jpg"><img src="thumbs/080-arches-s969892.jpg" width="240" alt="arches, seed 969892, ocean palette" title="080-arches-s969892 (ocean, 2400x3000)"></a>
 <a href="previews/089-arches-s338943.jpg"><img src="thumbs/089-arches-s338943.jpg" width="240" alt="arches, seed 338943, lilac palette" title="089-arches-s338943 (lilac, 2400x3000)"></a>
 <a href="previews/093-arches-s967762.jpg"><img src="thumbs/093-arches-s967762.jpg" width="240" alt="arches, seed 967762, citrus palette" title="093-arches-s967762 (citrus, 2400x3000)"></a>
+<a href="previews/100-arches-s222765.jpg"><img src="thumbs/100-arches-s222765.jpg" width="240" alt="arches, seed 222765, sand palette" title="100-arches-s222765 (sand, 2400x3000)"></a>
+<a href="previews/103-arches-s506518.jpg"><img src="thumbs/103-arches-s506518.jpg" width="240" alt="arches, seed 506518, lilac palette" title="103-arches-s506518 (lilac, 2400x3000)"></a>
 </p>
 
 ## Podiums (17)
@@ -68,7 +70,7 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/098-podiums-s521024.jpg"><img src="thumbs/098-podiums-s521024.jpg" width="240" alt="podiums, seed 521024, ocean palette" title="098-podiums-s521024 (ocean, 2400x3000)"></a>
 </p>
 
-## Ribbons (16)
+## Ribbons (18)
 
 <p>
 <a href="previews/001-ribbons-s354859.jpg"><img src="thumbs/001-ribbons-s354859.jpg" width="240" alt="ribbons, seed 354859, citrus palette" title="001-ribbons-s354859 (citrus, 3840x2160)"></a>
@@ -87,9 +89,11 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/081-ribbons-s585415.jpg"><img src="thumbs/081-ribbons-s585415.jpg" width="240" alt="ribbons, seed 585415, sand palette" title="081-ribbons-s585415 (sand, 3840x2160)"></a>
 <a href="previews/088-ribbons-s307409.jpg"><img src="thumbs/088-ribbons-s307409.jpg" width="240" alt="ribbons, seed 307409, noir palette" title="088-ribbons-s307409 (noir, 3840x2160)"></a>
 <a href="previews/094-ribbons-s225989.jpg"><img src="thumbs/094-ribbons-s225989.jpg" width="240" alt="ribbons, seed 225989, blush palette" title="094-ribbons-s225989 (blush, 3840x2160)"></a>
+<a href="previews/101-ribbons-s988892.jpg"><img src="thumbs/101-ribbons-s988892.jpg" width="240" alt="ribbons, seed 988892, lilac palette" title="101-ribbons-s988892 (lilac, 3840x2160)"></a>
+<a href="previews/104-ribbons-s943163.jpg"><img src="thumbs/104-ribbons-s943163.jpg" width="240" alt="ribbons, seed 943163, citrus palette" title="104-ribbons-s943163 (citrus, 3840x2160)"></a>
 </p>
 
-## Monoliths (16)
+## Monoliths (17)
 
 <p>
 <a href="previews/004-monoliths-s496598.jpg"><img src="thumbs/004-monoliths-s496598.jpg" width="240" alt="monoliths, seed 496598, ocean palette" title="004-monoliths-s496598 (ocean, 2400x3000)"></a>
@@ -108,9 +112,10 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/079-monoliths-s904268.jpg"><img src="thumbs/079-monoliths-s904268.jpg" width="240" alt="monoliths, seed 904268, lilac palette" title="079-monoliths-s904268 (lilac, 2400x3000)"></a>
 <a href="previews/090-monoliths-s480515.jpg"><img src="thumbs/090-monoliths-s480515.jpg" width="240" alt="monoliths, seed 480515, sand palette" title="090-monoliths-s480515 (sand, 2400x3000)"></a>
 <a href="previews/091-monoliths-s449143.jpg"><img src="thumbs/091-monoliths-s449143.jpg" width="240" alt="monoliths, seed 449143, blush palette" title="091-monoliths-s449143 (blush, 2400x3000)"></a>
+<a href="previews/102-monoliths-s840884.jpg"><img src="thumbs/102-monoliths-s840884.jpg" width="240" alt="monoliths, seed 840884, ocean palette" title="102-monoliths-s840884 (ocean, 2400x3000)"></a>
 </p>
 
-## Spheres (16)
+## Spheres (17)
 
 <p>
 <a href="previews/002-spheres-s523746.jpg"><img src="thumbs/002-spheres-s523746.jpg" width="240" alt="spheres, seed 523746, lilac palette" title="002-spheres-s523746 (lilac, 2400x3000)"></a>
@@ -129,6 +134,7 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/084-spheres-s956922.jpg"><img src="thumbs/084-spheres-s956922.jpg" width="240" alt="spheres, seed 956922, ocean palette" title="084-spheres-s956922 (ocean, 3000x3000)"></a>
 <a href="previews/085-spheres-s330679.jpg"><img src="thumbs/085-spheres-s330679.jpg" width="240" alt="spheres, seed 330679, ocean palette" title="085-spheres-s330679 (ocean, 3000x3000)"></a>
 <a href="previews/095-spheres-s688754.jpg"><img src="thumbs/095-spheres-s688754.jpg" width="240" alt="spheres, seed 688754, lilac palette" title="095-spheres-s688754 (lilac, 3000x3000)"></a>
+<a href="previews/099-spheres-s942779.jpg"><img src="thumbs/099-spheres-s942779.jpg" width="240" alt="spheres, seed 942779, blush palette" title="099-spheres-s942779 (blush, 2400x3000)"></a>
 </p>
 
 ## Waves (17)

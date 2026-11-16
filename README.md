@@ -1,6 +1,6 @@
 # Retail Concept Art
 
-Abstract pieces for in-store display: 125 images, every one generated from code and rendered with Blender 5.3 Cycles (OptiX) on an NVIDIA RTX 5090.
+Abstract pieces for in-store display: 128 images, every one generated from code and rendered with Blender 5.3 Cycles (OptiX) on an NVIDIA RTX 5090.
 
 **[View the gallery](https://rayhe.github.io/retail-concept-art/)**: the shareable web version, with a full-screen viewer.
 
@@ -25,7 +25,7 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 | spheres | A Fibonacci garden of gold, clay, frosted-glass and iridescent spheres. |
 | waves | Dark silk: a folded surface grazed by coloured light. |
 
-## Arches (21)
+## Arches (22)
 
 <p>
 <a href="previews/005-arches-s252832.jpg"><img src="thumbs/005-arches-s252832.jpg" width="240" alt="arches, seed 252832, ocean palette" title="005-arches-s252832 (ocean, 2400x3000)"></a>
@@ -49,6 +49,7 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/112-arches-s677799.jpg"><img src="thumbs/112-arches-s677799.jpg" width="240" alt="arches, seed 677799, noir palette" title="112-arches-s677799 (noir, 2400x3000)"></a>
 <a href="previews/118-arches-s737860.jpg"><img src="thumbs/118-arches-s737860.jpg" width="240" alt="arches, seed 737860, citrus palette" title="118-arches-s737860 (citrus, 2400x3000)"></a>
 <a href="previews/121-arches-s538820.jpg"><img src="thumbs/121-arches-s538820.jpg" width="240" alt="arches, seed 538820, lilac palette" title="121-arches-s538820 (lilac, 2400x3000)"></a>
+<a href="previews/128-arches-s357960.jpg"><img src="thumbs/128-arches-s357960.jpg" width="240" alt="arches, seed 357960, blush palette" title="128-arches-s357960 (blush, 2400x3000)"></a>
 </p>
 
 ## Podiums (21)
@@ -155,7 +156,7 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/123-spheres-s672771.jpg"><img src="thumbs/123-spheres-s672771.jpg" width="240" alt="spheres, seed 672771, citrus palette" title="123-spheres-s672771 (citrus, 2400x3000)"></a>
 </p>
 
-## Waves (20)
+## Waves (22)
 
 <p>
 <a href="previews/006-waves-s605907.jpg"><img src="thumbs/006-waves-s605907.jpg" width="240" alt="waves, seed 605907, blush palette" title="006-waves-s605907 (blush, 3840x2160)"></a>
@@ -178,6 +179,8 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/108-waves-s609943.jpg"><img src="thumbs/108-waves-s609943.jpg" width="240" alt="waves, seed 609943, blush palette" title="108-waves-s609943 (blush, 3840x2160)"></a>
 <a href="previews/110-waves-s716055.jpg"><img src="thumbs/110-waves-s716055.jpg" width="240" alt="waves, seed 716055, blush palette" title="110-waves-s716055 (blush, 3840x2160)"></a>
 <a href="previews/119-waves-s305564.jpg"><img src="thumbs/119-waves-s305564.jpg" width="240" alt="waves, seed 305564, lilac palette" title="119-waves-s305564 (lilac, 3840x2160)"></a>
+<a href="previews/126-waves-s393617.jpg"><img src="thumbs/126-waves-s393617.jpg" width="240" alt="waves, seed 393617, citrus palette" title="126-waves-s393617 (citrus, 3840x2160)"></a>
+<a href="previews/127-waves-s555894.jpg"><img src="thumbs/127-waves-s555894.jpg" width="240" alt="waves, seed 555894, citrus palette" title="127-waves-s555894 (citrus, 3840x2160)"></a>
 </p>
 
 ## License

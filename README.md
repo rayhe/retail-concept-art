@@ -1,6 +1,6 @@
 # Retail Concept Art
 
-Abstract pieces for in-store display: 154 images, every one generated from code and rendered with Blender 5.3 Cycles (OptiX) on an NVIDIA RTX 5090.
+Abstract pieces for in-store display: 160 images, every one generated from code and rendered with Blender 5.3 Cycles (OptiX) on an NVIDIA RTX 5090.
 
 **[View the gallery](https://rayhe.github.io/retail-concept-art/)**: the shareable web version, with a full-screen viewer.
 
@@ -56,7 +56,7 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/154-arches-s556416.jpg"><img src="thumbs/154-arches-s556416.jpg" width="240" alt="arches, seed 556416, blush palette" title="154-arches-s556416 (blush, 2400x3000)"></a>
 </p>
 
-## Podiums (25)
+## Podiums (27)
 
 <p>
 <a href="previews/003-podiums-s958351.jpg"><img src="thumbs/003-podiums-s958351.jpg" width="240" alt="podiums, seed 958351, noir palette" title="003-podiums-s958351 (noir, 2400x3000)"></a>
@@ -84,9 +84,11 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/134-podiums-s20398.jpg"><img src="thumbs/134-podiums-s20398.jpg" width="240" alt="podiums, seed 20398, ocean palette" title="134-podiums-s20398 (ocean, 2400x3000)"></a>
 <a href="previews/141-podiums-s345887.jpg"><img src="thumbs/141-podiums-s345887.jpg" width="240" alt="podiums, seed 345887, noir palette" title="141-podiums-s345887 (noir, 2400x3000)"></a>
 <a href="previews/150-podiums-s904106.jpg"><img src="thumbs/150-podiums-s904106.jpg" width="240" alt="podiums, seed 904106, citrus palette" title="150-podiums-s904106 (citrus, 2400x3000)"></a>
+<a href="previews/156-podiums-s872423.jpg"><img src="thumbs/156-podiums-s872423.jpg" width="240" alt="podiums, seed 872423, noir palette" title="156-podiums-s872423 (noir, 2400x3000)"></a>
+<a href="previews/158-podiums-s724931.jpg"><img src="thumbs/158-podiums-s724931.jpg" width="240" alt="podiums, seed 724931, lilac palette" title="158-podiums-s724931 (lilac, 2400x3000)"></a>
 </p>
 
-## Ribbons (26)
+## Ribbons (27)
 
 <p>
 <a href="previews/001-ribbons-s354859.jpg"><img src="thumbs/001-ribbons-s354859.jpg" width="240" alt="ribbons, seed 354859, citrus palette" title="001-ribbons-s354859 (citrus, 3840x2160)"></a>
@@ -115,9 +117,10 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/139-ribbons-s399004.jpg"><img src="thumbs/139-ribbons-s399004.jpg" width="240" alt="ribbons, seed 399004, citrus palette" title="139-ribbons-s399004 (citrus, 3840x2160)"></a>
 <a href="previews/148-ribbons-s445484.jpg"><img src="thumbs/148-ribbons-s445484.jpg" width="240" alt="ribbons, seed 445484, lilac palette" title="148-ribbons-s445484 (lilac, 3840x2160)"></a>
 <a href="previews/151-ribbons-s683451.jpg"><img src="thumbs/151-ribbons-s683451.jpg" width="240" alt="ribbons, seed 683451, ocean palette" title="151-ribbons-s683451 (ocean, 3840x2160)"></a>
+<a href="previews/160-ribbons-s749356.jpg"><img src="thumbs/160-ribbons-s749356.jpg" width="240" alt="ribbons, seed 749356, citrus palette" title="160-ribbons-s749356 (citrus, 3840x2160)"></a>
 </p>
 
-## Monoliths (25)
+## Monoliths (26)
 
 <p>
 <a href="previews/004-monoliths-s496598.jpg"><img src="thumbs/004-monoliths-s496598.jpg" width="240" alt="monoliths, seed 496598, ocean palette" title="004-monoliths-s496598 (ocean, 2400x3000)"></a>
@@ -145,9 +148,10 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/138-monoliths-s21482.jpg"><img src="thumbs/138-monoliths-s21482.jpg" width="240" alt="monoliths, seed 21482, lilac palette" title="138-monoliths-s21482 (lilac, 2400x3000)"></a>
 <a href="previews/143-monoliths-s254101.jpg"><img src="thumbs/143-monoliths-s254101.jpg" width="240" alt="monoliths, seed 254101, noir palette" title="143-monoliths-s254101 (noir, 2400x3000)"></a>
 <a href="previews/149-monoliths-s602100.jpg"><img src="thumbs/149-monoliths-s602100.jpg" width="240" alt="monoliths, seed 602100, sand palette" title="149-monoliths-s602100 (sand, 2400x3000)"></a>
+<a href="previews/155-monoliths-s831310.jpg"><img src="thumbs/155-monoliths-s831310.jpg" width="240" alt="monoliths, seed 831310, citrus palette" title="155-monoliths-s831310 (citrus, 2400x3000)"></a>
 </p>
 
-## Spheres (26)
+## Spheres (27)
 
 <p>
 <a href="previews/002-spheres-s523746.jpg"><img src="thumbs/002-spheres-s523746.jpg" width="240" alt="spheres, seed 523746, lilac palette" title="002-spheres-s523746 (lilac, 2400x3000)"></a>
@@ -176,9 +180,10 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/144-spheres-s756482.jpg"><img src="thumbs/144-spheres-s756482.jpg" width="240" alt="spheres, seed 756482, noir palette" title="144-spheres-s756482 (noir, 2400x3000)"></a>
 <a href="previews/145-spheres-s541915.jpg"><img src="thumbs/145-spheres-s541915.jpg" width="240" alt="spheres, seed 541915, noir palette" title="145-spheres-s541915 (noir, 2400x3000)"></a>
 <a href="previews/152-spheres-s340411.jpg"><img src="thumbs/152-spheres-s340411.jpg" width="240" alt="spheres, seed 340411, lilac palette" title="152-spheres-s340411 (lilac, 3000x3000)"></a>
+<a href="previews/157-spheres-s74554.jpg"><img src="thumbs/157-spheres-s74554.jpg" width="240" alt="spheres, seed 74554, noir palette" title="157-spheres-s74554 (noir, 2400x3000)"></a>
 </p>
 
-## Waves (26)
+## Waves (27)
 
 <p>
 <a href="previews/006-waves-s605907.jpg"><img src="thumbs/006-waves-s605907.jpg" width="240" alt="waves, seed 605907, blush palette" title="006-waves-s605907 (blush, 3840x2160)"></a>
@@ -207,6 +212,7 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 <a href="previews/140-waves-s574761.jpg"><img src="thumbs/140-waves-s574761.jpg" width="240" alt="waves, seed 574761, lilac palette" title="140-waves-s574761 (lilac, 3840x2160)"></a>
 <a href="previews/146-waves-s30526.jpg"><img src="thumbs/146-waves-s30526.jpg" width="240" alt="waves, seed 30526, noir palette" title="146-waves-s30526 (noir, 3840x2160)"></a>
 <a href="previews/153-waves-s900202.jpg"><img src="thumbs/153-waves-s900202.jpg" width="240" alt="waves, seed 900202, noir palette" title="153-waves-s900202 (noir, 3840x2160)"></a>
+<a href="previews/159-waves-s112499.jpg"><img src="thumbs/159-waves-s112499.jpg" width="240" alt="waves, seed 112499, sand palette" title="159-waves-s112499 (sand, 3840x2160)"></a>
 </p>
 
 ## License

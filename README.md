@@ -29,7 +29,7 @@ blender -b --factory-startup -P generator/retail_scenes.py -- --piece podiums --
 
 The strongest pieces for display, picked from the full set.
 
-25 of them are also seamless 10-second loops (1080p MP4) for in-store screens: they play on the [gallery page](https://rayhe.github.io/retail-concept-art/), and the full-quality files are on the [v1 release](../../releases/tag/v1).
+28 of them are also seamless 10-second loops (1080p MP4) for in-store screens: they play on the [gallery page](https://rayhe.github.io/retail-concept-art/), and the full-quality files are on the [v1 release](../../releases/tag/v1).
 
 <p>
 <a href="previews/014-waves-s917419.jpg"><img src="thumbs/014-waves-s917419.jpg" width="300" alt="waves, seed 917419, noir palette" title="014-waves-s917419 (noir, 3840x2160)"></a>
